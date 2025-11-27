@@ -1,5 +1,11 @@
 # Campus Library — Examen Git
-
+menbre :
+- Mathis Langella
+# Instalation
+Dans le terminal a la racine du dossier faire sa : \
+go mod init \
+go mod tidy
+#
 Ce repository contient un mini serveur web représentant une
  bibliothèque, le site permet d’afficher la liste des livres avec 4 champs :\
     [Author ,ID ,Title ,Year] \
