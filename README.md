@@ -1,5 +1,5 @@
 # Campus Library — Examen Git
-menbre :
+Membre :
 - Mathis Langella
 # Instalation
 Dans le terminal a la racine du dossier faire sa : \
